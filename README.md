@@ -17,7 +17,7 @@ Instructions for using the software:
 1. Download Xcode and watch a video tutorial.
 2. Start with the beginning page/part of the app.
 3. make sure that all have access to the repository
-4. Use swift
+4. Use swift!
 
 ## Development Environment 
 
