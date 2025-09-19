@@ -10,7 +10,7 @@ Steps to build and/or run the software:
 
 1. We are debating using C# or  Xcode. I am more familiar with C# but they recommend Xcode which is great for IOS and apple products.
 2. Figure out the general goals for each part of the app and figuring out how they relate within the code. 
-3. 
+3. yes
 
 Instructions for using the software:
 
