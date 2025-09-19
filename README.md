@@ -1,4 +1,4 @@
-# Project Title (Update)
+# Gym Giants
 
 Add a description of your project here.
 
